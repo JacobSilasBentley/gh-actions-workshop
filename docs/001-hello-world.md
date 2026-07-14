@@ -8,7 +8,7 @@ GitHub provides Linux, Windows, and macOS virtual machines to run your workflows
 
 **The components of GitHub Actions**
 
-GitHub Actions workflows are always triggered by events occurring in your repository such as a pull request being opened or an issue being created. A workflow contains one or more jobs which can run in sequential order or in parallel. Each job will run inside its own virtual machine runner, or inside a container, and has one or more steps. Each step executes either a shell script or an action, which is a reusable extension that automates a certain piece of your workflow.
+GitHub Actions workflows are always triggered by events occurring in your repository such as a pull request being opened or an issue being created. A workflow contains one or more jobs which can run in sequential order or in parallel. Each job will run inside its own virtual machine runner, or inside a container, and has one or more steps. Each step executes either a shell script or an action, which is a reusable extension that automates a certain piece of your workflow. Choo choo.
 
 ![](https://docs.github.com/assets/cb-25628/images/help/images/overview-actions-simple.png)
 
