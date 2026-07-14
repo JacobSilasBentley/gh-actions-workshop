@@ -1,4 +1,4 @@
-name: Hello World Training Workflow
+name: Main Workflow
 
 on:
   workflow_dispatch:
